@@ -1,5 +1,14 @@
+body{
+    background-image: url('633.jpg');
+    background-attachment: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .green{
     border: 5px solid green;
+    background-color: white;
+    margin: 0 10%;
 }
 
 .red{
@@ -13,6 +22,10 @@
 
 .blue{
     border: 5px solid blue;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin: 0;
+    margin-top: 10px;
 }
 
 .purple{

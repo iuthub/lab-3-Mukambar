@@ -1,0 +1,20 @@
+.green{
+    border: 5px solid green;
+}
+
+.red{
+    border: 5px solid red;
+}
+
+.yellow{
+    border: 5px solid yellow;
+    margin: 1px;
+}
+
+.blue{
+    border: 5px solid blue;
+}
+
+.purple{
+    border: 5px solid purple;
+}
